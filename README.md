@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
-
 WHDD is HDD diagnostic and recovery tool for Linux.
 
 Project website: http://whdd.github.io
